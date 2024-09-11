@@ -12,7 +12,7 @@ Opacity
 Copy-to-clipboard functionality for CSS code
 Responsive design
 
-![First loading Page](https://github.com/ashish8513/Pokedex-api/blob/main/home.png)
+![First loading Page](https://github.com/ashish8513/box-shadow-Generator-/blob/master/home.png)
 
 Technologies Used
 JavaScript
