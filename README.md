@@ -1,4 +1,4 @@
-<h1>Box Shadow Generator<h1>
+<h4>Box Shadow Generator<h4>
 A simple web tool to create and customize CSS box shadows. This generator allows users to easily adjust shadow properties such as offset, blur, spread, and color, and provides the corresponding CSS code.
 
 Features
