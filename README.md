@@ -16,8 +16,8 @@ Responsive design
 
 Technologies Used
 JavaScript
-React.js 
-Tailwind CSS 
+React.js <img alt="React"  align="center"   src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+Tailwind CSS <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&labelColor=black&color=1CA1B8"/></a>
 
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
